@@ -1,0 +1,19 @@
+#box{
+    width: 500px;
+    height: 500px;
+    border: 1px solid #000;
+    background: green;
+    position: relative;
+    
+    
+}
+#test{
+    width: 150px;		
+    height: 150px;
+    border: 1px solid #000;
+    background: pink;
+    position: absolute;
+    top: 0px;
+    
+    
+}

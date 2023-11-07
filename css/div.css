@@ -1,0 +1,35 @@
+body{
+    background: #b4c09f
+;
+}
+    .a{
+    
+            border: 2px solid white;
+            width: 400px;
+            height: 500px;
+            float: left;
+            margin-left: 11px;
+            background: rgb(71, 172, 226);
+        } 
+   .b{
+            border: 5px solid rgb(16, 14, 14);
+            background: rgb(241, 238, 5);
+            text-align: center;
+            color: rgb(234, 13, 13);
+            font-size: 50px;
+            font-family:cursive;
+        }
+    .btn{
+        background: linear-gradient(to right,red,yellow);
+        width: 200px;
+        height: 50px;
+        font-size: 24px;
+        color: white;
+        border-radius: 20px;
+    }
+    .btn:hover {
+        background: linear-gradient(green,yellow);
+        transition: 1s;
+
+    }
+    
